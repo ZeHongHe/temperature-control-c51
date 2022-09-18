@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\temperature_control_system" 
+PRINT(".\Listings\temperature_control_system.m51") RAMSIZE(256) 
